@@ -1,4 +1,4 @@
 #+title: README
 
-This is an [[https://shurufa.app/][input method]].
+This is an [[https://shurufa.app/][input method]] for simplified Chinese.
 
